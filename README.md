@@ -1,8 +1,3 @@
-Sure! Here's a simplified and clean `README.md` for your GitHub repo that explains your TestCafe automation practice scripts in a straightforward way:
-
----
-
-````markdown
 # 🧪 TestCafe Automation Practice
 
 This repository contains my personal practice scripts for learning and improving my skills in **TestCafe**, a Node.js tool for automated end-to-end testing of web applications.
@@ -68,7 +63,3 @@ Feel free to explore, clone, or adapt these scripts for your own learning. Happy
 
 ```
 
----
-
-Let me know if you want to include a sample test case or badges (like Node version, TestCafe version, etc.) in the README!
-```
